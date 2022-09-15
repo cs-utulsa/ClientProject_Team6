@@ -1,0 +1,26 @@
+/* screen - admin-sign-in */
+
+.admin-sign-in {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 2520px;
+}
+
+.admin-sign-in .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/image-21-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1260px;
+  min-width: 2520px;
+  padding: 396px 1045px;
+}
+
+.admin-sign-in .frame-8 {
+  border: 1px none;
+  height: 111px;
+  width: 410px;
+}

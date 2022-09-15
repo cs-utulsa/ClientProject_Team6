@@ -1,0 +1,29 @@
+/* screen - admin-input-email */
+
+.admin-input-email {
+  align-items: flex-start;
+  background-image: url(../img/image-20-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 1260px;
+  padding: 459px 1053px;
+  width: 2520px;
+}
+
+.admin-input-email .frame-12 {
+  border: 1px none;
+  height: 45px;
+  width: 392px;
+}
+
+.admin-input-email .frame-9 {
+  align-self: flex-end;
+  border: 1px none;
+  height: 67px;
+  margin-right: 15px;
+  margin-top: 46px;
+  width: 130px;
+}

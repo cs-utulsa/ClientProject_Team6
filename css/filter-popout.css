@@ -1,0 +1,307 @@
+/* screen - filter-popout */
+
+.filter-popout {
+  align-items: flex-start;
+  background-color: #000000bf;
+  border: 1px none;
+  display: flex;
+  min-width: 1887px;
+}
+
+#overlay-filter-popout {
+  background-color: #000000bf;
+}
+
+.overlay .filter-popout {
+  background-color: #00000000;
+}
+
+#overlay-filter-popout .filter-popout {
+  left: 1492px;
+  top: 0;
+}
+
+#overlay-filter-popout .container-center-horizontal {
+  justify-content: normal;
+}
+
+.filter-popout .filter-popout-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  height: 1080px;
+  min-width: 395px;
+  padding: 16px 13px;
+}
+
+.filter-popout .overlap-group3 {
+  height: 551px;
+  position: relative;
+  width: 368px;
+}
+
+.filter-popout .search-bar {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 551px;
+  position: absolute;
+  top: 0;
+  width: 368px;
+}
+
+.filter-popout .overlap-group2 {
+  background-color: var(--white);
+  border-radius: 29.5px;
+  height: 59px;
+  position: relative;
+  width: 291px;
+}
+
+.filter-popout .ellipse-21 {
+  border: 5px solid;
+  border-color: var(--stratos);
+  border-radius: 14.3px;
+  height: 29px;
+  left: 19px;
+  position: absolute;
+  top: 15px;
+  width: 29px;
+}
+
+.filter-popout .line-2 {
+  height: 10px;
+  left: 40px;
+  position: absolute;
+  top: 37px;
+  width: 10px;
+}
+
+.filter-popout .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--hawkes-blue);
+  border-radius: 29.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  display: flex;
+  flex-direction: column;
+  margin-top: 59px;
+  min-height: 433px;
+  padding: 21px 16px;
+  width: 368px;
+}
+
+.filter-popout .rectangle-3 {
+  background-color: var(--white);
+  border: 5px none;
+  border-radius: 15px;
+  height: 59px;
+  margin-top: 63px;
+  width: 334px;
+}
+
+.filter-popout .rectangle-4 {
+  background-color: var(--white);
+  border: 5px none;
+  border-radius: 15px;
+  height: 59px;
+  margin-top: 25px;
+  width: 334px;
+}
+
+.filter-popout .rectangle-5 {
+  background-color: var(--white);
+  border: 5px none;
+  border-radius: 15px;
+  height: 59px;
+  margin-top: 28px;
+  width: 334px;
+}
+
+.filter-popout .rectangle-6 {
+  align-self: flex-end;
+  background-color: var(--blue);
+  border: 5px none;
+  border-radius: 15px;
+  cursor: pointer;
+  height: 59px;
+  margin-right: 2px;
+  margin-top: 39px;
+  width: 155px;
+}
+
+.filter-popout .image-30 {
+  height: 67px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 281px;
+  width: 67px;
+}
+
+.filter-popout .image-27 {
+  height: 50px;
+  left: 295px;
+  position: absolute;
+  top: 208px;
+  width: 50px;
+}
+
+.filter-popout .image-28 {
+  height: 50px;
+  left: 295px;
+  position: absolute;
+  top: 292px;
+  width: 50px;
+}
+
+.filter-popout .image-32 {
+  height: 50px;
+  left: 295px;
+  position: absolute;
+  top: 379px;
+  width: 50px;
+}
+
+.filter-popout .icon-location_pin {
+  height: 64px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 65px;
+}
+
+.filter-popout .image-29 {
+  border: 1px none;
+  height: 64px;
+  left: 18px;
+  position: absolute;
+  top: 284px;
+  width: 65px;
+}
+
+.filter-popout .arrow {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 15px;
+  min-width: 33px;
+  padding: 0 0.1px;
+  position: absolute;
+  top: 18px;
+  transform: rotate(180deg);
+}
+
+.filter-popout .line-container {
+  height: 37px;
+  margin-bottom: -5.46px;
+  position: relative;
+  width: 33px;
+}
+
+.filter-popout .line-7 {
+  height: 22px;
+  left: 1px;
+  position: absolute;
+  top: 15px;
+  transform: rotate(-180deg);
+  width: 32px;
+}
+
+.filter-popout .line-8 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 32px;
+}
+
+.filter-popout .filter-by {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 2.56px;
+  position: absolute;
+  top: 140px;
+}
+
+.filter-popout .location {
+  left: 87px;
+  letter-spacing: 1.92px;
+  position: absolute;
+  top: 215px;
+}
+
+.filter-popout .place {
+  left: 87px;
+  letter-spacing: 1.92px;
+  position: absolute;
+  top: 299px;
+}
+
+.filter-popout .time {
+  left: 87px;
+  letter-spacing: 1.92px;
+  position: absolute;
+  top: 386px;
+}
+
+.filter-popout .icon-clock {
+  height: 68px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 368px;
+  width: 68px;
+}
+
+.filter-popout .frame-15 {
+  align-items: flex-start;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  height: 65px;
+  left: 36px;
+  padding: 16px 11px;
+  position: absolute;
+  top: 468px;
+  width: 100px;
+}
+
+.filter-popout .cancel {
+  letter-spacing: 1.92px;
+  min-height: 31px;
+}
+
+.filter-popout .frame-16 {
+  align-items: flex-start;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  height: 65px;
+  left: 232px;
+  padding: 16px 11px;
+  position: absolute;
+  top: 468px;
+  width: 100px;
+}
+
+.filter-popout .apply {
+  color: var(--hawkes-blue);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 1.92px;
+  min-height: 31px;
+  min-width: 56px;
+  text-align: center;
+}

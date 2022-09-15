@@ -1,0 +1,394 @@
+/* screen - menu-popout */
+
+.menu-popout {
+  align-items: flex-start;
+  background-color: #000000bf;
+  border: 1px none;
+  display: flex;
+  width: 1887px;
+}
+
+#overlay-menu-popout {
+  background-color: #000000bf;
+}
+
+.overlay .menu-popout {
+  background-color: #00000000;
+}
+
+#overlay-menu-popout .menu-popout {
+  left: 1165px;
+  top: 0;
+}
+
+#overlay-menu-popout .container-center-horizontal {
+  justify-content: normal;
+}
+
+.menu-popout .menu-popout-1 {
+  align-items: flex-end;
+  background-color: #000000ad;
+  background-image: url(../img/menu-popout@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 43px 24px;
+  width: 726px;
+}
+
+.menu-popout .bar-container {
+  align-items: center;
+  display: flex;
+  height: 70px;
+  margin-right: 25px;
+  min-width: 615px;
+}
+
+.menu-popout .search-bar {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 29.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  display: flex;
+  height: 59px;
+  margin-top: 1.0px;
+  min-width: 457px;
+  padding: 12.1px 22.6px;
+}
+
+.menu-popout .overlap-group1 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.menu-popout .ellipse-21 {
+  border: 5px solid;
+  border-color: var(--stratos);
+  border-radius: 14.3px;
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.menu-popout .line-2 {
+  height: 10px;
+  left: 21px;
+  position: absolute;
+  top: 21px;
+  width: 10px;
+}
+
+.menu-popout .menu-bar {
+  align-items: flex-start;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 73px;
+  min-height: 70px;
+  width: 85px;
+}
+
+.menu-popout .rectangle-4 {
+  background-color: var(--half-baked);
+  border: 1px none;
+  border-radius: 6.5px;
+  height: 12px;
+  width: 85px;
+}
+
+.menu-popout .rectangle-5 {
+  background-color: var(--half-baked);
+  border: 1px none;
+  border-radius: 6.5px;
+  height: 12px;
+  margin-top: 16px;
+  width: 85px;
+}
+
+.menu-popout .rectangle-6 {
+  background-color: var(--half-baked);
+  border: 1px none;
+  border-radius: 6.5px;
+  height: 12px;
+  margin-top: 18px;
+  width: 85px;
+}
+
+.menu-popout .overlap-group9 {
+  height: 111px;
+  margin-right: 28px;
+  margin-top: 109px;
+  position: relative;
+  width: 627px;
+}
+
+.menu-popout .rectangle-2 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 627px;
+}
+
+.menu-popout .line-container {
+  height: 42px;
+  left: 570px;
+  position: absolute;
+  top: 33px;
+  width: 37px;
+}
+
+.menu-popout .line-7 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.menu-popout .line-8 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.menu-popout .image-8 {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.menu-popout .account {
+  left: 149px;
+  letter-spacing: 1.65px;
+  position: absolute;
+  top: 35px;
+}
+
+.menu-popout .overlap-group11 {
+  height: 286px;
+  margin-right: 28px;
+  margin-top: 2px;
+  position: relative;
+  width: 650px;
+}
+
+.menu-popout .rectangle-3 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  height: 81px;
+  left: 23px;
+  position: absolute;
+  top: 38px;
+  width: 627px;
+}
+
+.menu-popout .rectangle-4-1 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  height: 81px;
+  left: 23px;
+  position: absolute;
+  top: 175px;
+  width: 627px;
+}
+
+.menu-popout .image-10 {
+  height: 138px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 138px;
+}
+
+.menu-popout .notifications {
+  left: 173px;
+  letter-spacing: 1.65px;
+  position: absolute;
+  top: 60px;
+}
+
+.menu-popout .appearance {
+  left: 172px;
+  letter-spacing: 1.65px;
+  position: absolute;
+  top: 198px;
+}
+
+.menu-popout .line-container-1 {
+  height: 42px;
+  left: 593px;
+  position: absolute;
+  top: 58px;
+  width: 37px;
+}
+
+.menu-popout .line-container-2 {
+  height: 42px;
+  left: 593px;
+  position: absolute;
+  top: 195px;
+  width: 37px;
+}
+
+.menu-popout .icon-notifications {
+  height: 157px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 157px;
+}
+
+.menu-popout .overlap-group8 {
+  height: 130px;
+  margin-right: 28px;
+  margin-top: 1px;
+  position: relative;
+  width: 641px;
+}
+
+.menu-popout .rectangle-5-1 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  height: 81px;
+  left: 14px;
+  position: absolute;
+  top: 24px;
+  width: 627px;
+}
+
+.menu-popout .icon-lock {
+  height: 130px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.menu-popout .privacy-security {
+  left: 163px;
+  letter-spacing: 1.65px;
+  position: absolute;
+  top: 46px;
+}
+
+.menu-popout .line-container-3 {
+  height: 42px;
+  left: 584px;
+  position: absolute;
+  top: 46px;
+  width: 37px;
+}
+
+.menu-popout .overlap-group7 {
+  height: 94px;
+  margin-right: 28px;
+  margin-top: 29px;
+  position: relative;
+  width: 627px;
+}
+
+.menu-popout .rectangle-6-1 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 627px;
+}
+
+.menu-popout .image-12 {
+  height: 94px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.menu-popout .help-support {
+  left: 149px;
+  letter-spacing: 1.65px;
+  position: absolute;
+  top: 27px;
+}
+
+.menu-popout .line-container-4 {
+  height: 42px;
+  left: 570px;
+  position: absolute;
+  top: 24px;
+  width: 37px;
+}
+
+.menu-popout .overlap-group10 {
+  height: 95px;
+  margin-right: 28px;
+  margin-top: 39px;
+  position: relative;
+  width: 627px;
+}
+
+.menu-popout .rectangle-7 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 627px;
+}
+
+.menu-popout .image-13 {
+  height: 95px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.menu-popout .about {
+  left: 149px;
+  letter-spacing: 1.65px;
+  position: absolute;
+  top: 29px;
+}
+
+.menu-popout .line-container-5 {
+  height: 42px;
+  left: 570px;
+  position: absolute;
+  top: 27px;
+  width: 37px;
+}

@@ -1,0 +1,961 @@
+/* screen - profile-page-admin */
+
+.profile-page-admin {
+  align-items: flex-start;
+  background-color: var(--half-baked);
+  border: 1px none;
+  display: flex;
+  height: 1080px;
+  min-width: 1887px;
+  overflow-x: hidden;
+}
+
+.profile-page-admin .overlap-group14 {
+  height: 1390px;
+  margin-left: -1px;
+  margin-top: 159px;
+  position: relative;
+  width: 1887px;
+  z-index: 1;
+}
+
+.profile-page-admin .frame-6 {
+  align-items: flex-start;
+  background-color: var(--half-baked);
+  border: 1px none;
+  display: flex;
+  height: 1390px;
+  left: 0;
+  min-width: 1887px;
+  position: absolute;
+  top: 0;
+}
+
+.profile-page-admin .overlap-group {
+  height: 1390px;
+  position: relative;
+  width: 1887px;
+}
+
+.profile-page-admin .frame-1 {
+  border: 1px none;
+  height: 100px;
+  left: 325px;
+  position: absolute;
+  top: 464px;
+  width: 100px;
+}
+
+.profile-page-admin .frame-2 {
+  border: 1px none;
+  height: 65px;
+  left: 316px;
+  position: absolute;
+  top: 629px;
+  width: 97px;
+}
+
+.profile-page-admin .fade {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);
+  border: 1px none;
+  height: 1122px;
+  left: 0;
+  position: absolute;
+  top: 268px;
+  width: 1887px;
+}
+
+.profile-page-admin .rectangle-38 {
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border: 1px none;
+  height: 1125px;
+  left: 0;
+  position: absolute;
+  top: 265px;
+  width: 449px;
+}
+
+.profile-page-admin .backdrop {
+  height: 268px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1887px;
+}
+
+.profile-page-admin .profile-photo {
+  height: 313px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 313px;
+}
+
+.profile-page-admin .admin {
+  color: var(--white);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 60px;
+  left: 0;
+  letter-spacing: 1.44px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 449px;
+  width: 449px;
+}
+
+.profile-page-admin .admin-joltutulsaedu {
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 1.44px;
+  line-height: 134.5px;
+  position: absolute;
+  text-align: center;
+  top: 535px;
+  white-space: nowrap;
+  width: 383px;
+}
+
+.profile-page-admin .rectangle-48 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 19px;
+  height: 75px;
+  left: 97px;
+  position: absolute;
+  top: 774px;
+  width: 255px;
+}
+
+.profile-page-admin .rectangle-52 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 19px;
+  height: 75px;
+  left: 97px;
+  position: absolute;
+  top: 669px;
+  width: 255px;
+}
+
+.profile-page-admin .rectangle-49 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 19px;
+  height: 75px;
+  left: 98px;
+  position: absolute;
+  top: 879px;
+  width: 255px;
+}
+
+.profile-page-admin .rectangle-50 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 19px;
+  height: 75px;
+  left: 98px;
+  position: absolute;
+  top: 984px;
+  width: 255px;
+}
+
+.profile-page-admin .rectangle-53 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 19px;
+  height: 75px;
+  left: 98px;
+  position: absolute;
+  top: 1089px;
+  width: 255px;
+}
+
+.profile-page-admin .rectangle-51 {
+  background-color: var(--blue);
+  border: 1px none;
+  border-radius: 19px;
+  height: 75px;
+  left: 98px;
+  position: absolute;
+  top: 1249px;
+  width: 255px;
+}
+
+.profile-page-admin .overview {
+  color: #283891;
+  font-family: var(--font-family-viga);
+  font-size: 64px;
+  font-weight: 400;
+  left: 531px;
+  letter-spacing: 4.48px;
+  line-height: 79px;
+  position: absolute;
+  top: 309px;
+  width: 739px;
+}
+
+.profile-page-admin .lines {
+  height: 1px;
+  left: 483px;
+  position: absolute;
+  top: 398px;
+  width: 1345px;
+}
+
+.profile-page-admin .student-list {
+  left: 124px;
+  letter-spacing: 2.24px;
+  line-height: 32px;
+  position: absolute;
+  top: 811px;
+  white-space: nowrap;
+}
+
+.profile-page-admin .edit-site {
+  left: 155px;
+  letter-spacing: 2.24px;
+  line-height: 32px;
+  position: absolute;
+  top: 706px;
+  white-space: nowrap;
+}
+
+.profile-page-admin .event-sheet {
+  left: 125px;
+  letter-spacing: 2.24px;
+  line-height: 32px;
+  position: absolute;
+  top: 916px;
+  white-space: nowrap;
+}
+
+.profile-page-admin .reservations {
+  left: 120px;
+  letter-spacing: 2.24px;
+  line-height: 32px;
+  position: absolute;
+  top: 1021px;
+  white-space: nowrap;
+}
+
+.profile-page-admin .messages {
+  left: 145px;
+  letter-spacing: 2.24px;
+  line-height: 32px;
+  position: absolute;
+  top: 1126px;
+  white-space: nowrap;
+}
+
+.profile-page-admin .log-out {
+  color: var(--hawkes-blue);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 2.24px;
+  line-height: 32px;
+  position: absolute;
+  top: 1286px;
+  white-space: nowrap;
+}
+
+.profile-page-admin .icon-mail {
+  height: 119px;
+  left: 1532px;
+  object-fit: cover;
+  position: absolute;
+  top: 268px;
+  width: 119px;
+}
+
+.profile-page-admin .image-43 {
+  height: 158px;
+  left: 1619px;
+  object-fit: cover;
+  position: absolute;
+  top: 249px;
+  width: 158px;
+}
+
+.profile-page-admin .ellipse-24 {
+  background-color: #bf1e2e;
+  border: 1px none;
+  border-radius: 11px;
+  height: 22px;
+  left: 1706px;
+  position: absolute;
+  top: 302px;
+  width: 22px;
+}
+
+.profile-page-admin .ellipse-25 {
+  background-color: #bf1e2e;
+  border: 1px none;
+  border-radius: 11px;
+  height: 22px;
+  left: 1608px;
+  position: absolute;
+  top: 302px;
+  width: 22px;
+}
+
+.profile-page-admin .icon-flag {
+  height: 101px;
+  left: 1756px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 101px;
+}
+
+.profile-page-admin .frame-2-1 {
+  border: 1px none;
+  height: 100px;
+  left: 266px;
+  position: absolute;
+  top: 508px;
+  width: 100px;
+}
+
+.profile-page-admin .rectangle-9 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 799px;
+  left: 490px;
+  position: absolute;
+  top: 499px;
+  width: 454px;
+}
+
+.profile-page-admin .frame-18 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 771px;
+  left: 490px;
+  overflow: hidden;
+  position: absolute;
+  top: 527px;
+  width: 454px;
+}
+
+.profile-page-admin .overlap-group1-1 {
+  height: 1150px;
+  margin-bottom: -435px;
+  margin-left: 21px;
+  position: relative;
+  width: 567px;
+}
+
+.profile-page-admin .rectangle-52-1 {
+  height: 1149px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 408px;
+}
+
+.profile-page-admin .wsd8745utulsaedu-k {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.profile-page-admin .text-4 {
+  left: 333px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.profile-page-admin .rectangle-53-1 {
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border: 1px none;
+  border-radius: 11px;
+  height: 45px;
+  left: 504px;
+  position: absolute;
+  top: 512px;
+  width: 428px;
+}
+
+.profile-page-admin .current-student-progress {
+  left: 523px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 442px;
+  width: 387px;
+}
+
+.profile-page-admin .export-as-excel-sheet {
+  color: var(--white);
+  font-family: var(--font-family-amiko);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 597px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 520px;
+}
+
+.profile-page-admin .upcoming-events {
+  left: 1034px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 442px;
+}
+
+.profile-page-admin .frame-3 {
+  border: 1px none;
+  height: 102px;
+  left: 1204px;
+  position: absolute;
+  top: 967px;
+  width: 98px;
+}
+
+.profile-page-admin .rectangle-12 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 43px;
+  height: 788px;
+  left: 986px;
+  position: absolute;
+  top: 499px;
+  width: 871px;
+}
+
+.profile-page-admin .overlap-group2 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1689px;
+  min-width: 141px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 753px;
+}
+
+.profile-page-admin .cancel {
+  letter-spacing: 1.92px;
+  min-height: 54px;
+  text-align: center;
+  width: 141px;
+}
+
+.profile-page-admin .overlap-group3 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1689px;
+  min-width: 141px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 890px;
+}
+
+.profile-page-admin .overlap-group4 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1689px;
+  min-width: 141px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 1028px;
+}
+
+.profile-page-admin .overlap-group5 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1689px;
+  min-width: 141px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 1165px;
+}
+
+.profile-page-admin .overlap-group6 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1402px;
+  min-width: 269px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 753px;
+}
+
+.profile-page-admin .show-access-code {
+  letter-spacing: 1.92px;
+  min-height: 55px;
+  text-align: center;
+  width: 269px;
+}
+
+.profile-page-admin .overlap-group7 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1402px;
+  min-width: 269px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 890px;
+}
+
+.profile-page-admin .overlap-group8 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1402px;
+  min-width: 269px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 1028px;
+}
+
+.profile-page-admin .overlap-group9 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1402px;
+  min-width: 269px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 1165px;
+}
+
+.profile-page-admin .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: 1012px;
+  min-height: 106px;
+  padding: 9.9px 4.0px;
+  position: absolute;
+  top: 601px;
+  width: 372px;
+}
+
+.profile-page-admin .jolt-general-meeting {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 18.73px;
+  min-height: 25px;
+  width: 318px;
+}
+
+.profile-page-admin .overlap-group1 {
+  height: 54px;
+  margin-top: 6px;
+  position: relative;
+  width: 341px;
+}
+
+.profile-page-admin .location-university-of-tulsa {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 28px;
+  width: 341px;
+}
+
+.profile-page-admin .date-10022022 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.profile-page-admin .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: 1012px;
+  min-height: 106px;
+  padding: 9.9px 4.0px;
+  position: absolute;
+  top: 738px;
+  width: 372px;
+}
+
+.profile-page-admin .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: 1012px;
+  min-height: 106px;
+  padding: 9.9px 4.0px;
+  position: absolute;
+  top: 875px;
+  width: 372px;
+}
+
+.profile-page-admin .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: 1012px;
+  min-height: 106px;
+  padding: 9.9px 4.0px;
+  position: absolute;
+  top: 1013px;
+  width: 372px;
+}
+
+.profile-page-admin .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: 1012px;
+  min-height: 106px;
+  padding: 9.9px 4.0px;
+  position: absolute;
+  top: 1150px;
+  width: 372px;
+}
+
+.profile-page-admin .overlap-group10 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1402px;
+  min-width: 269px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 616px;
+}
+
+.profile-page-admin .overlap-group11 {
+  height: 45px;
+  left: 1554px;
+  position: absolute;
+  top: 527px;
+  width: 288px;
+}
+
+.profile-page-admin .rectangle-3 {
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border: 1px none;
+  border-radius: 19px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 287px;
+}
+
+.profile-page-admin .create-new-event {
+  left: 1px;
+  letter-spacing: 1.92px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 287px;
+}
+
+.profile-page-admin .overlap-group12 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(82.96, 131.13, 255) 0%, rgb(0, 0, 0) 100%);
+  border-radius: 19px;
+  display: flex;
+  height: 76px;
+  left: 1689px;
+  min-width: 141px;
+  padding: 1.0px 0;
+  position: absolute;
+  top: 613px;
+}
+
+.profile-page-admin .top-bar {
+  align-items: flex-start;
+  display: flex;
+  height: 157px;
+  left: 0;
+  min-width: 1887px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.profile-page-admin .overlap-group13 {
+  height: 157px;
+  position: relative;
+  width: 1887px;
+}
+
+.profile-page-admin .search-bar {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 3px 3px 0px #77004040;
+  display: flex;
+  height: 40px;
+  left: 1404px;
+  min-width: 335px;
+  padding: 7.5px 14.5px;
+  position: absolute;
+  top: 73px;
+}
+
+.profile-page-admin .overlap-group-6 {
+  height: 23px;
+  position: relative;
+  width: 21px;
+}
+
+.profile-page-admin .ellipse-21 {
+  border: 5px solid;
+  border-color: var(--stratos);
+  border-radius: 10.5px;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.profile-page-admin .line-2 {
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 17px;
+  width: 6px;
+}
+
+.profile-page-admin .events-tab-button {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 86px;
+  left: 825px;
+  position: absolute;
+  top: 48px;
+  width: 215px;
+}
+
+.profile-page-admin .home-tab-button {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 86px;
+  left: 555px;
+  position: absolute;
+  top: 48px;
+  width: 215px;
+}
+
+.profile-page-admin .rectangle-2 {
+  height: 157px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1887px;
+}
+
+.profile-page-admin .thumbnail_jolt-at-tu-business-on-black-2 {
+  height: 128px;
+  left: 17px;
+  position: absolute;
+  top: 14px;
+  width: 244px;
+}
+
+.profile-page-admin .search-bar-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 29.5px;
+  box-shadow: 3px 3px 0px #77004040;
+  display: flex;
+  height: 59px;
+  left: 1205px;
+  min-width: 368px;
+  padding: 11.1px 22.6px;
+  position: absolute;
+  top: 49px;
+}
+
+.profile-page-admin .overlap-group1-2 {
+  height: 33px;
+  position: relative;
+  width: 29px;
+}
+
+.profile-page-admin .ellipse-21-1 {
+  border: 5px solid;
+  border-color: var(--stratos);
+  border-radius: 14.3px;
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.profile-page-admin .line-2-1 {
+  height: 9px;
+  left: 20px;
+  position: absolute;
+  top: 24px;
+  width: 9px;
+}
+
+.profile-page-admin .events-tab-button-1 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 64px;
+  left: 602px;
+  overflow: hidden;
+  position: absolute;
+  top: 41px;
+  width: 183px;
+}
+
+.profile-page-admin .events {
+  letter-spacing: 2.64px;
+  margin-bottom: -21px;
+  min-height: 86px;
+  width: 213px;
+}
+
+.profile-page-admin .events-tab-button-2 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 64px;
+  left: 855px;
+  overflow: hidden;
+  position: absolute;
+  top: 41px;
+  width: 244px;
+}
+
+.profile-page-admin .calendar {
+  letter-spacing: 2.64px;
+  margin-bottom: -21px;
+  min-height: 86px;
+  width: 261px;
+}
+
+.profile-page-admin .home-tab-button-1 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 64px;
+  left: 369px;
+  overflow: hidden;
+  position: absolute;
+  top: 41px;
+  width: 163px;
+}
+
+.profile-page-admin .place {
+  color: var(--half-baked);
+  font-family: var(--font-family-amiko);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 2.64px;
+  margin-bottom: -21px;
+  min-height: 86px;
+  width: 213px;
+}
+
+.profile-page-admin .profile-photo-1 {
+  height: 70px;
+  left: 1629px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 73px;
+}
+
+.profile-page-admin .menu-bar {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  left: 1753px;
+  min-height: 70px;
+  position: absolute;
+  top: 43px;
+  width: 85px;
+}
+
+.profile-page-admin .rectangle-4 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 6.5px;
+  height: 12px;
+  width: 85px;
+}
+
+.profile-page-admin .rectangle-5 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 6.5px;
+  height: 12px;
+  margin-top: 16px;
+  width: 85px;
+}
+
+.profile-page-admin .rectangle-6 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 6.5px;
+  height: 12px;
+  margin-top: 18px;
+  width: 85px;
+}

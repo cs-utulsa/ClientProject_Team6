@@ -1,0 +1,21 @@
+/* screen - access-code-page */
+
+.access-code-page {
+  align-items: flex-start;
+  background-color: #000000ad;
+  background-image: url(../img/access-code-page-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  height: 665px;
+  padding: 167px 220px;
+  width: 1108px;
+}
+
+.access-code-page .access-code-a4-jw3 {
+  letter-spacing: 5.28px;
+  min-height: 283px;
+  text-align: center;
+  width: 667px;
+}

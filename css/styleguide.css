@@ -1,0 +1,116 @@
+:root { 
+  --black: #000000;
+  --black-pearl: #07112a;
+  --blue: #2b75e5;
+  --half-baked: #8dc1de;
+  --hawkes-blue: #cbe8f9;
+  --stratos: #07033d;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 96px;
+ 
+  --font-family-abel: "Abel", Helvetica;
+  --font-family-amiko: "Amiko", Helvetica;
+  --font-family-viga: "Viga", Helvetica;
+}
+.viga-normal-hawkes-blue-24px {
+  color: var(--hawkes-blue);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.amiko-normal-blue-24px {
+  color: var(--blue);
+  font-family: var(--font-family-amiko);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.viga-normal-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.viga-normal-blue-32px {
+  color: var(--blue);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.amiko-bold-stratos-24px {
+  color: var(--stratos);
+  font-family: var(--font-family-amiko);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.viga-normal-hawkes-blue-48px {
+  color: var(--hawkes-blue);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-pearl-30px {
+  color: var(--black-pearl);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abel-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.viga-normal-hawkes-blue-96px {
+  color: var(--hawkes-blue);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.amiko-normal-black-pearl-20px {
+  color: var(--black-pearl);
+  font-family: var(--font-family-amiko);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.viga-normal-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-viga);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.amiko-normal-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-amiko);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
